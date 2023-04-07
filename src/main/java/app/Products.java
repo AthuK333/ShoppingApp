@@ -1,4 +1,5 @@
 package app;
+//This is a pproducts class
 
 public class Products implements Comparable<Products>{
 	
